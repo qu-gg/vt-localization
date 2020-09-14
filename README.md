@@ -3,6 +3,8 @@
 
 <p>This repository holds the experiments and models as explored in the work, "A Hybrid Machine Learning Approach to Localizing the Origin of Ventricular Tachycardia Using 12-Lead Electrocardiograms." It separates the runtimes of the population and patient-specific models with notes on how to run each.</p>
 
+<p>We are working on uploading the remaining code for the population model and hope to have it fully complete soon.</p>
+
 <h2>Running</h2>
 <p>Due to confidentiality agreements with our collaborators, the data used in training and testing the models cannot be made public. However, the data processing scripts are available to format ECG datasets into runnable forms. Modifications will need to be made in the processing scripts when applying custom data, due to initial data formatting.</p>
 
