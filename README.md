@@ -11,7 +11,7 @@
 <h3>Population Models</h3>
 <p>Contains the tested population models, including Linear Regression, CNN, and a CNN-VAE. Details on the setup of each are given within the paper.</p>
 
-<p>HOW TO RUN</p>
+<p>HOW TO RUN (Instructions incoming when code is uploaded)</p>
 
 <h3>Patient-Specific Models</h3>
 <p>Contains the patient-specific models that were tested, as well as the experiments to compare them. The test runtime expects 4 initial files in the given folder:</p>
